@@ -40,7 +40,7 @@ body{
 }
 
 .jumbotron {
-  background: url(/assets/img/pres.jpg?h=3fed225db0baaf582c75f4bde3093db1);
+  background: url(./pres.jpg);
   background-size: cover;
   background-position: center;
   width: 90%;
